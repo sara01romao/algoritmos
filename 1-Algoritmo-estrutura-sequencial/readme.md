@@ -2,10 +2,12 @@
 
 Em cada um dos exercícios, fazer a análise do problema, a definição do objetivo, as especificações da entrada e saída e a descrição do algoritmo em linguagem algorítmica.
 
-<strong>E1</strong> Dado um número inteiro de 3 algarismos, inverter a ordem de seus algarismos. Os três algarismos do número dado são diferentes de zero.
+<strong>E1</strong> 
+Dado um número inteiro de 3 algarismos, inverter a ordem de seus algarismos. Os três algarismos do número dado são diferentes de zero.
 <hr/>
 
-<strong>E2</strong> Dado um número de 3 algarismos, construir outro número de quatro algarismos de acordo com a seguinte regra:
+<strong>E2</strong> 
+Dado um número de 3 algarismos, construir outro número de quatro algarismos de acordo com a seguinte regra:
 
 a) Os três primeiros algarismos, contados da esquerda para a direita, são iguais aos do número dado;
 
@@ -19,7 +21,8 @@ Somar os resultados acima. O dígito de controle é igual ao resto da divisão d
 
 <hr/>
 
-<strong>E3</strong> Dado um número inteiro de segundos, determinar o seu valor equivalente em graus, minutos e segundos.
+<strong>E3</strong> 
+Dado um número inteiro de segundos, determinar o seu valor equivalente em graus, minutos e segundos.
 
 Se a quantidade de segundos for insuficiente para dar o valor em graus, o valor em graus deve ser zero. A mesma observação continua válida em relação a minutos e segundos.
 
@@ -29,9 +32,14 @@ Exemplos:
 
 <hr/>
 
-<strong>E4</strong> Dadas duas frações ordinárias a/b e c/d, determinar a sua soma e o seu produto.
+<strong>E4</strong> 
+Dadas duas frações ordinárias a/b e c/d, determinar a sua soma e o seu produto.
 <hr/>
 
-<strong>E5</strong> Dado um número inteiro que representa um número binário de cinco dígitos, determinar o seu equivalente decimal.
+<strong>E5</strong> 
+Dado um número inteiro que representa um número binário de cinco dígitos, determinar o seu equivalente decimal.
 <hr/>
+
+<strong>E6</strong>
+Dados o primeiro termo e a razão de uma progressão aritmética, determinar a soma dos seus primeiros cinco termos.
 
